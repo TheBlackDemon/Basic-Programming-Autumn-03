@@ -1,20 +1,20 @@
 instructors:
   - name: Dr.Boomari
     profile_pic: /_images/pp/dumbledore.jpg
-#    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
-#  - name: Minerva McGonagall
- #   profile_pic: /_images/pp/mcgonagall.jpg
+    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
+  - name: Minerva McGonagall
+    profile_pic: /_images/pp/mcgonagall.jpg
 
 teaching_assistants:
   - name: Mohammad Mahdi Asgari
     profile_pic: /_images/pp/potter.jpg
- #   webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
+    webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
 
   - name: Zeynab Ashouri
     profile_pic: /_images/pp/granger.jpg
-  #  webpage: https://en.wikipedia.org/wiki/Hermione_Granger
+    webpage: https://en.wikipedia.org/wiki/Hermione_Granger
 
-#  - name: Ron Weasley
- #   profile_pic: /_images/pp/weasley.jpg
-  #  webpage: https://en.wikipedia.org/wiki/Ron_Weasley 
+  - name: Ron Weasley
+    profile_pic: /_images/pp/weasley.jpg
+    webpage: https://en.wikipedia.org/wiki/Ron_Weasley 
     
