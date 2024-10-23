@@ -8,7 +8,7 @@ permalink: /materials/
 
 ## Book
 
-Alan Turing and Noam Chomsky: Very Famous Book
+Java How to Program, Early Objects, by Deitel
 
 ## Additional Course Materials
 
