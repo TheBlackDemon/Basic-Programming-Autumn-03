@@ -1,12 +1,10 @@
 ---
 type: exam
-date: 2018-12-02T8:0:0+3:30
-description: 'Midterm'
+date: 1403-10-26T15:00:00+3:30
+description: 'Final'
 hide_from_announcments: true
 ---
 
 **Topics:**
-1. Topic 1
-2. Topic 2
-3. Topic 3
+1. All courses offered during the semester
 hide_from_announcments: true   
