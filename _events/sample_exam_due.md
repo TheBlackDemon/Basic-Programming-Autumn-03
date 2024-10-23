@@ -7,4 +7,3 @@ hide_from_announcments: true
 
 **Topics:**
 1. All courses offered during the semester
-hide_from_announcments: true   
