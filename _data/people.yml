@@ -1,9 +1,9 @@
-instructors:
+Teacher:
   - name: Hossein Boomari
     profile_pic: /_images/pp/dumbledore.jpg
     webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
   
-teaching_assistants:
+Developer_team:
   - name: Mohammad Mahdi Asgari
     profile_pic: /_images/pp/potter.jpg
     webpage: https://github.com/TheBlackDemon
