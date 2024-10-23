@@ -1,6 +1,6 @@
 # Site settings
 course_name: Basic Programming Autumn 1403
-course_description: "Welcome to the Basic Programming course of Department of Mathematical Sciences Sharif University of Technology."
+course_description: "Welcome to the Basic Programming course of Department of Mathematical Sciences Sharif University of Technology.Saturday and Monday 10:30-12:30 AM."
 course_semester: "Autumn 2024"
 
 baseurl: "/Basic-Programming-Autumn-03" # the subpath of your site, e.g. /blog/
