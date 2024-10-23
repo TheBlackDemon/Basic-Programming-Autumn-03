@@ -8,7 +8,7 @@ links:
     - url: https://google.com
       name: notes
     - url: https://google.com
-    name: codes
+      name: codes
     - url: https://google.com
       name: slides
 ---
