@@ -6,16 +6,20 @@ instructors:
 developers:
   - name: Mohammad Mahdi Asgari
     profile_pic: /_images/pp/MMA.jpg
-    webpage: https://github.com/TheBlackDemon 
+    webpage: asgarimohammadmahdi78@gmail.com 
+    
+  - name: Zeynab Ashouri
+    profile_pic: /_images/pp/ZEY.jpg
+    webpage: zeynabashouri21@gmail.com
     
 teaching_assistants:
   - name: Mohammad Mahdi Asgari
     profile_pic: /_images/pp/MMA.jpg
-    webpage: https://github.com/TheBlackDemon
+    webpage: asgarimohammadmahdi78@gmail.com
 
   - name: Zeynab Ashouri
     profile_pic: /_images/pp/ZEY.jpg
-    webpage: https://github.com/ZeynabAshourii
+    webpage: zeynabashouri21@gmail.com
 
 
     
