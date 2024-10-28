@@ -38,7 +38,7 @@ layout: default
                 <div class="image--cover-container">
                     <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
                     {% if ins.webpage %}
-                    <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
+                    <p><a href="mailto:{{ ins.webpage }}">{{ins.name}}</a></p>
                     {% else %}
                     <p>{{ins.name}}</p>
                     {% endif %}
@@ -54,7 +54,7 @@ layout: default
                 <div class="image--cover-container">
                     <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
                     {% if ta.webpage %}
-                    <p><a href="{{ ta.webpage }}">{{ta.name}}</a></p>
+                    <p><a href="mailto:{{ ta.webpage }}">{{ta.name}}</a></p>
                     {% else %}
                     <p>{{ta.name}}</p>
                     {% endif %}
@@ -69,7 +69,7 @@ layout: default
                 <div class="image--cover-container">
                     <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
                     {% if ta.webpage %}
-                    <p><a href="{{ ta.webpage }}">{{ta.name}}</a></p>
+                    <p><a href="mailto:{{ ta.webpage }}">{{ta.name}}</a></p>
                     {% else %}
                     <p>{{ta.name}}</p>
                     {% endif %}
