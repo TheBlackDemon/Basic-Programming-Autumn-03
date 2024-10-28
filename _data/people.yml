@@ -1,7 +1,7 @@
 instructors:
   - name: Dr Hossein Boomari
-    profile_pic: /_images/pp/inst.jpg
-    webpage: mh.hima@gmail.com
+  profile_pic: /_images/pp/inst.jpg
+  webpage: mh.hima@gmail.com
     
 developers:
   - name: Mohammad Mahdi Asgari
