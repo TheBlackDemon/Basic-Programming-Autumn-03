@@ -2,57 +2,43 @@ instructors:
   - name: Dr Hossein Boomari
     profile_pic: /_images/pp/dumbledore.jpg
     webpage: mh.hima@gmail.com
-  
+
 developers:
   - name: Mohammad Mahdi Asgari
     profile_pic: /_images/pp/MMA.jpg
-    webpage: asgarimohammadmahdi78@gmail.com 
-    
+    webpage: asgarimohammadmahdi78@gmail.com
   - name: Zeynab Ashouri
     profile_pic: /_images/pp/ZEY.jpg
     webpage: zeynabashouri21@gmail.com
-    
+
 teaching_assistants:
   - name: Mohammad Mahdi Asgari
     profile_pic: /_images/pp/MMA.jpg
     webpage: asgarimohammadmahdi78@gmail.com
-
   - name: Zeynab Ashouri
     profile_pic: /_images/pp/ZEY.jpg
     webpage: zeynabashouri21@gmail.com
-    
- - name: Aryan Noorzadeh
-   profile_pic: /_images/pp/inst.jpg
-   webpage: aarriinnoorr1317@gmail.com
-   
- - name: Mahdi Khoshnevis
-   profile_pic: /_images/pp/inst.jpg
-   webpage: khoshnewiss@gmail.com
-   
- - name: Shayan Salehi
-   profile_pic: /_images/pp/inst.jpg
-   webpage: shayansalehisut@gmail.com
-   
- - name: Mahdi Zahedi
-   profile_pic: /_images/pp/studentPhoto.jpg
-   webpage:  mahdi.zahedi.mahdi@gmail.com
-   
- - name: Ali Ghorbani
-   profile_pic: /_images/pp/inst.jpg
-   webpage:  erfan23g@icloud.com
-   
- - name: Maryan Mehdizadeh
-   profile_pic: /_images/pp/inst.jpg
-   webpage: maryam.mehdizadeh1384@gmail.com
-   
- - name: Maryan Mehdizadeh
-   profile_pic: /_images/pp/inst.jpg
-   webpage: maryam.mehdizadeh1384@gmail.com
-
- - name: Raya Namazi
-   profile_pic: /_images/pp/inst.jpg
-   webpage: nmzraya@gmail.com
-   
- - name: Mahdi Rasoulzade
-   profile_pic: /_images/pp/inst.jpg
-   webpage: edu@itsmahdi.con
+  - name: Aryan Noorzadeh
+    profile_pic: /_images/pp/inst.jpg
+    webpage: aarriinnoorr1317@gmail.com
+  - name: Mahdi Khoshnevis
+    profile_pic: /_images/pp/inst.jpg
+    webpage: khoshnewiss@gmail.com
+  - name: Shayan Salehi
+    profile_pic: /_images/pp/inst.jpg
+    webpage: shayansalehisut@gmail.com
+  - name: Mahdi Zahedi
+    profile_pic: /_images/pp/studentPhoto.jpg
+    webpage: mahdi.zahedi.mahdi@gmail.com
+  - name: Ali Ghorbani
+    profile_pic: /_images/pp/inst.jpg
+    webpage: erfan23g@icloud.com
+  - name: Maryan Mehdizadeh
+    profile_pic: /_images/pp/inst.jpg
+    webpage: maryam.mehdizadeh1384@gmail.com
+  - name: Raya Namazi
+    profile_pic: /_images/pp/inst.jpg
+    webpage: nmzraya@gmail.com
+  - name: Mahdi Rasoulzade
+    profile_pic: /_images/pp/inst.jpg
+    webpage: edu@itsmahdi.con
