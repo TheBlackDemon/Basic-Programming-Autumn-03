@@ -3,6 +3,11 @@ instructors:
     profile_pic: /_images/pp/dumbledore.jpg
     webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
   
+dev:
+  - name: Mohammad Mahdi Asgari
+    profile_pic: /_images/pp/MMA.jpg
+    webpage: https://github.com/TheBlackDemon 
+    
 teaching_assistants:
   - name: Mohammad Mahdi Asgari
     profile_pic: /_images/pp/MMA.jpg
