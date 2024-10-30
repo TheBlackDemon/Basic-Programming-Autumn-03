@@ -35,12 +35,12 @@ permalink: /syllabus/
         <td>S05</td>
         <td>Familiarity with programming and Java</td>
     </tr>
-    <tr style="background-color:#add8e6">
+    <tr style="background-color:#ffffe0">
         <td>1403/08/14</td>
         <td>S06</td>
         <td>Familiarity with programming and Java</td>
     </tr>
-    <tr style="background-color:#b2ffb2">
+    <tr style="background-color:#ffffe0">
         <td>1403/08/12</td>
         <td colspan="4" style="text-align: center;">Assignment 1</td>
     </tr>
@@ -59,7 +59,7 @@ permalink: /syllabus/
         <td>S09</td>
         <td>Conditional operators</td> 
     </tr>
-    <tr style="background-color:#ffcccb">
+    <tr style="background-color:#add8e6">
         <td>1403/08/28</td>
         <td>S10</td>
         <td>Conditional operators</td>
@@ -83,7 +83,7 @@ permalink: /syllabus/
         <td>S13</td>
         <td>Arrays</td>
     </tr>
-    <tr style="background-color:#ffebcd">
+    <tr style="background-color:#ffcccb">
         <td>1403/09/12</td>
         <td>S14</td>
         <td>Arrays</td>
@@ -115,7 +115,7 @@ permalink: /syllabus/
         <td>1403/09/24</td>
         <td colspan="4" style="text-align: center;">Assignment 4</td>
     </tr>
-    <tr style="background-color:#ffebcd">
+    <tr style="background-color:#e6e6fa">
         <td>1403/10/01</td>
         <td>S19</td>
         <td>Familiarity with object-oriented programming</td>
