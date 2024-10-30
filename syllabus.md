@@ -68,6 +68,30 @@ permalink: /syllabus/
         <td>1403/08/26</td>
         <td colspan="4" style="text-align: center;">Assignment 2</td>
     </tr>
+    <tr style="background-color:#ffcccb">
+        <td>1403/09/03</td>
+        <td>S11</td>
+        <td>Loops</td>
+    </tr>
+    <tr style="background-color:#ffcccb">
+        <td>1403/09/05</td>
+        <td>S12</td>
+        <td>Loops</td>
+    </tr>
+    <tr style="background-color:#ffcccb">
+        <td>1403/09/10</td>
+        <td>S13</td>
+        <td>Arrays</td>
+    </tr>
+    <tr style="background-color:#ffcccb">
+        <td>1403/09/12</td>
+        <td>S14</td>
+        <td>Arrays</td>
+    </tr>
+    <tr style="background-color:#b2ffb2">
+        <td>1403/09/10</td>
+        <td colspan="4" style="text-align: center;">Assignment 3</td>
+    </tr>
     <tr style="background-color:#ff6347">
         <td>1403/10/30</td>
         <td colspan="4" style="text-align: center;">Final Exam</td>
