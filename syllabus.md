@@ -18,27 +18,27 @@ permalink: /syllabus/
     <tr style="background-color:#ffffe0">
         <td>1403/07/30</td>
         <td>S02</td>
-        <td>Familiarity with computers and operating systems</td>
+        <td>Introduction to computers and operating systems</td>
     </tr>
     <tr style="background-color:#ffffe0">
         <td>1403/08/05</td>
         <td>S03</td>
-        <td>Familiarity with instruction writing and computer language</td>
+        <td>Introduction to instruction writing and computer language</td>
     </tr>
     <tr style="background-color:#ffffe0">
         <td>1403/08/07</td>
         <td>S04</td>
-        <td>Familiarity with instruction writing and computer language</td>
+        <td>Introduction to instruction writing and computer language</td>
     </tr>
     <tr style="background-color:#ffffe0">
         <td>1403/08/12</td>
         <td>S05</td>
-        <td>Familiarity with programming and Java</td>
+        <td>Introduction to programming and Java</td>
     </tr>
     <tr style="background-color:#ffffe0">
         <td>1403/08/14</td>
         <td>S06</td>
-        <td>Familiarity with programming and Java</td>
+        <td>Introduction to programming and Java</td>
     </tr>
     <tr style="background-color:#b2ffb2">
         <td>1403/08/18</td>
