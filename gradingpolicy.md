@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Grading Policy
+title: Grading
 permalink: /gradingpolicy/
 ---
   * Quizes: x points (y quizes each z points)
