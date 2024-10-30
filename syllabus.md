@@ -164,10 +164,8 @@ permalink: /syllabus/
 # Grading Policy
   * Quizes: x points (y quizes each z points; the lowest score will be dropped)
   * Assignments: 7.5 points
+  * Project: 3 points
   * Midterm Exam: 4 points
   * Final Exam: 6 points
   * Total Points: 21 points
 
-
-# TA Classes
-TA Classes will be held on Saturdays to Tuesdays at 17:00 and Wednesdays at 15:00 on the faculty site.
