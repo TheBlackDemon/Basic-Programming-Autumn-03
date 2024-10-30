@@ -11,6 +11,10 @@ items:
   name: Schedule
   icon_class: fas fa-calendar-alt
 
+- url: /TA-Class/
+  name: TA Class
+  icon_class: fas fa-calendar-alt
+
 - url: /lectures/
   name: Lectures
   icon_class: fas fa-book-reader
