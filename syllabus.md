@@ -139,15 +139,16 @@ permalink: /syllabus/
         <td>1403/10/10</td>
         <td colspan="4" style="text-align: center;">Assignment 5</td>
     </tr>
-    <tr style="background-color:#ff6347">
+    <tr style="background-color:#B2E0D6">
         <td>1403/10/15</td>
         <td>S23</td>
         <td>Work with files</td>
     </tr>
-    <tr style="background-color:#ff6347">
+    <tr style="background-color:#B2E0D6">
         <td>1403/10/17</td>
         <td>S24</td>
         <td>Using tools in Java</td>
+        
     </tr>
     <tr style="background-color:#ff6347">
         <td>1403/10/20</td>
