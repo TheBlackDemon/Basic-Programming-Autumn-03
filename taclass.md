@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TA Class
+title: Practice Sessions
 permalink: /taclass/
 ---
 TA Classes will be held on Saturdays to Tuesdays at 17:00 and Wednesdays at 15:00 on the faculty site.
