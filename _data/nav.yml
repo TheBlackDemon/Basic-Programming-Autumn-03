@@ -15,6 +15,10 @@ items:
   name: TA Class
   icon_class: fas fa-calendar-alt
 
+- url: /gradingpolicy/
+  name: Grading Policy
+  icon_class: fas fa-book-reader
+
 - url: /lectures/
   name: Lectures
   icon_class: fas fa-book-reader
