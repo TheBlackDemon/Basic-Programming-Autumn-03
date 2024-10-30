@@ -119,12 +119,12 @@ permalink: /syllabus/
     <tr style="background-color:#e6e6fa">
         <td>1403/10/01</td>
         <td>S19</td>
-        <td>Familiarity with object-oriented programming</td>
+        <td>Object oriented programming</td>
     </tr>
     <tr style="background-color:#e6e6fa">
         <td>1403/10/03</td>
         <td>S20</td>
-        <td>Familiarity with object-oriented programming</td>
+        <td>Object oriented programming</td>
     </tr>
     <tr style="background-color:#e6e6fa">
         <td>1403/10/08</td>
@@ -149,10 +149,6 @@ permalink: /syllabus/
         <td>1403/10/17</td>
         <td>S24</td>
         <td>Using tools in Java</td>
-    </tr>
-    <tr style="background-color:#ff6347">
-        <td>1403/10/30</td>
-        <td colspan="4" style="text-align: center;">Final Exam</td>
     </tr>
 </table>
 
