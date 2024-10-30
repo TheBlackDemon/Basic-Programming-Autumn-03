@@ -92,6 +92,30 @@ permalink: /syllabus/
         <td>1403/09/10</td>
         <td colspan="4" style="text-align: center;">Assignment 3</td>
     </tr>
+    <tr style="background-color:#ffebcd">
+        <td>1403/09/17</td>
+        <td>S15</td>
+        <td>Functions and References in Java</td>
+    </tr>
+    <tr style="background-color:#ffebcd">
+        <td>1403/09/19</td>
+        <td>S16</td>
+        <td>Functions and References in Java</td>
+    </tr>
+    <tr style="background-color:#ffebcd">
+        <td>1403/09/24</td>
+        <td>S17</td>
+        <td>Recursive functions</td>
+    </tr>
+    <tr style="background-color:#ffebcd">
+        <td>1403/09/26</td>
+        <td>S18</td>
+        <td>Recursive functions</td>
+    </tr>
+    <tr style="background-color:#b2ffb2">
+        <td>1403/09/24</td>
+        <td colspan="4" style="text-align: center;">Assignment 4</td>
+    </tr>
     <tr style="background-color:#ff6347">
         <td>1403/10/30</td>
         <td colspan="4" style="text-align: center;">Final Exam</td>
