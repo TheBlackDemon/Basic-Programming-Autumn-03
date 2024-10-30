@@ -12,11 +12,11 @@ items:
   icon_class: fas fa-calendar-alt
 
 - url: /taclass/
-  name: TA Class
+  name: Practice Sessions
   icon_class: fas fa-calendar-alt
 
 - url: /gradingpolicy/
-  name: Grading Policy
+  name: Grading
   icon_class: fas fa-book-reader
 
 - url: /lectures/
