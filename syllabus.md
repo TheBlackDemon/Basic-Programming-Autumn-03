@@ -139,12 +139,12 @@ permalink: /syllabus/
         <td>1403/10/10</td>
         <td colspan="4" style="text-align: center;">Assignment 5</td>
     </tr>
-    <tr style="background-color:#B2E0D6">
+    <tr style="background-color:#ff6347">
         <td>1403/10/15</td>
         <td>S23</td>
         <td>Work with files</td>
     </tr>
-    <tr style="background-color:#B2E0D6">
+    <tr style="background-color:#ff6347">
         <td>1403/10/17</td>
         <td>S24</td>
         <td>Using tools in Java</td>
@@ -169,3 +169,5 @@ permalink: /syllabus/
   * Final Exam: 6 points
   * Total Points: 21 points
 
+# TA Classes
+TA Classes will be held on Saturdays to Tuesdays at 17:00 and Wednesdays at 15:00 on the faculty site.
