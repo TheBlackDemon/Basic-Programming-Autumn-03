@@ -41,7 +41,7 @@ permalink: /syllabus/
         <td>Familiarity with programming and Java</td>
     </tr>
     <tr style="background-color:#b2ffb2">
-        <td>1403/08/12</td>
+        <td>1403/08/18</td>
         <td colspan="4" style="text-align: center;">Assignment 1</td>
     </tr>
     <tr style="background-color:#add8e6">
@@ -65,7 +65,7 @@ permalink: /syllabus/
         <td>Conditional operators</td>
     </tr>
     <tr style="background-color:#b2ffb2">
-        <td>1403/08/26</td>
+        <td>1403/08/02</td>
         <td colspan="4" style="text-align: center;">Assignment 2</td>
     </tr>
     <tr style="background-color:#ffcccb">
@@ -89,7 +89,7 @@ permalink: /syllabus/
         <td>Arrays</td>
     </tr>
     <tr style="background-color:#b2ffb2">
-        <td>1403/09/10</td>
+        <td>1403/09/16</td>
         <td colspan="4" style="text-align: center;">Assignment 3</td>
     </tr>
     <tr style="background-color:#ffebcd">
@@ -113,7 +113,7 @@ permalink: /syllabus/
         <td>Recursive functions</td>
     </tr>
     <tr style="background-color:#b2ffb2">
-        <td>1403/09/24</td>
+        <td>1403/09/30</td>
         <td colspan="4" style="text-align: center;">Assignment 4</td>
     </tr>
     <tr style="background-color:#e6e6fa">
@@ -137,7 +137,7 @@ permalink: /syllabus/
         <td>Data structures in Java</td>
     </tr>
     <tr style="background-color:#b2ffb2">
-        <td>1403/10/10</td>
+        <td>1403/10/14</td>
         <td colspan="4" style="text-align: center;">Assignment 5</td>
     </tr>
     <tr style="background-color:#B2E0D6">
