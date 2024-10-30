@@ -65,7 +65,7 @@ permalink: /syllabus/
         <td>Conditional operators</td>
     </tr>
     <tr style="background-color:#b2ffb2">
-        <td>1403/08/02</td>
+        <td>1403/09/02</td>
         <td colspan="4" style="text-align: center;">Assignment 2</td>
     </tr>
     <tr style="background-color:#ffcccb">
