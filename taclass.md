@@ -1,4 +1,3 @@
-# TA Classes
 TA Classes will be held on Saturdays to Tuesdays at 17:00 and Wednesdays at 15:00 on the faculty site.
 
 <table border="1" style="width: 100%; text-align: center;">
