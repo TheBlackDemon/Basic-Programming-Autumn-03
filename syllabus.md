@@ -30,7 +30,7 @@ permalink: /syllabus/
         <td>S04</td>
         <td>Familiarity with instruction writing and computer language</td>
     </tr>
-    <tr style="background-color:#add8e6">
+    <tr style="background-color:#ffffe0">
         <td>1403/08/12</td>
         <td>S05</td>
         <td>Familiarity with programming and Java</td>
@@ -40,7 +40,7 @@ permalink: /syllabus/
         <td>S06</td>
         <td>Familiarity with programming and Java</td>
     </tr>
-    <tr style="background-color:#ffffe0">
+    <tr style="background-color:#b2ffb2">
         <td>1403/08/12</td>
         <td colspan="4" style="text-align: center;">Assignment 1</td>
     </tr>
@@ -139,12 +139,12 @@ permalink: /syllabus/
         <td>1403/10/10</td>
         <td colspan="4" style="text-align: center;">Assignment 5</td>
     </tr>
-    <tr style="background-color:#e6e6fa">
+    <tr style="background-color:#B2E0D6">
         <td>1403/10/15</td>
         <td>S23</td>
         <td>Work with files</td>
     </tr>
-    <tr style="background-color:#e6e6fa">
+    <tr style="background-color:#B2E0D6">
         <td>1403/10/17</td>
         <td>S24</td>
         <td>Using tools in Java</td>
