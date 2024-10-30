@@ -8,13 +8,11 @@ permalink: /syllabus/
     <tr>
         <th>Date</th>
         <th>Session</th>
-        <th>Part</th>
         <th>Lecture Topic</th>
     </tr>
     <tr style="background-color:#ffffe0">
         <td>1403/07/01</td>
         <td>S01</td>
-        <td rowspan="4">1</td>
         <td>Elementary Row Operations, and Linear Equations</td>
     </tr>
     <tr style="background-color:#ffffe0">
@@ -35,7 +33,6 @@ permalink: /syllabus/
     <tr style="background-color:#add8e6">
         <td>1403/07/15</td>
         <td>S05</td>
-        <td rowspan="5">2</td>
         <td>Independence (Linear and Affine)</td>
     </tr>
     <tr style="background-color:#add8e6">
@@ -56,13 +53,11 @@ permalink: /syllabus/
     <tr style="background-color:#add8e6">
         <td>1403/07/29</td>
         <td>S09</td>
-        <td>Dimension and Rank</td>
-        
+        <td>Dimension and Rank</td>     
     </tr>
     <tr style="background-color:#ffcccb">
         <td>1403/08/01</td>
         <td>S10</td>
-        <td rowspan="4">3</td>
         <td>Inner Product Space</td>
     </tr>
     <tr style="background-color:#ffcccb">
@@ -83,7 +78,6 @@ permalink: /syllabus/
     <tr style="background-color:#ffebcd">
         <td>1403/08/15</td>
         <td>S14</td>
-        <td rowspan="6">4</td>
         <td>Linear Transformation</td>
     </tr>
     <tr style="background-color:#ffebcd">
@@ -114,7 +108,6 @@ permalink: /syllabus/
     <tr style="background-color:#e6e6fa">
         <td>1403/09/06</td>
         <td>S20</td>
-        <td rowspan="5">5</td>
         <td>Eigenvectors and Eigenvalues</td>
     </tr>
     <tr style="background-color:#e6e6fa">
@@ -144,13 +137,11 @@ permalink: /syllabus/
     <tr style="background-color:#e6e6fa">
         <td>1403/09/25</td>
         <td>S25</td>
-        <td></td>
         <td>SVD</td>
     </tr>
     <tr style="background-color:#b2ffb2">
         <td>1403/09/27</td>
         <td>S26</td>
-        <td rowspan="5">6</td>
         <td>Norm Space</td>
     </tr>
     <tr style="background-color:#b2ffb2">
@@ -162,7 +153,6 @@ permalink: /syllabus/
         <td>1403/10/04</td>
         <td>S28</td>
         <td>Derivatives</td>
-
     </tr>
     <tr style="background-color:#b2ffb2">
         <td>1403/10/09</td>
