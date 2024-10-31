@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 1403-08-24T4:00:00+4:30
+date: 1403-08-25T4:00:00+4:30
 title: 'Assignment #2'
 pdf: /static_files/assignments/asg.pdf
 attachment: /static_files/assignments/asg.zip
