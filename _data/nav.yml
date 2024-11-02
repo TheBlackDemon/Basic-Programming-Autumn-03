@@ -20,7 +20,7 @@ items:
   icon_class: fas fa-book-reader
 
 - url: /assignments/
-  name: Assignments
+  name: Assignments & Project
   icon_class: fas fa-user-graduate
 
 - url: /materials/
