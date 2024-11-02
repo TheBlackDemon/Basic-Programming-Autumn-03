@@ -2,6 +2,7 @@
 type: assignment
 date: 1403-08-09T00:00:01
 title: 'Assignment #1'
+released: false
 pdf: /static_files/assignments/asg.pdf
 attachment: /static_files/assignments/asg.zip
 solutions: /static_files/assignments/asg_solutions.pdf
