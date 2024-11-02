@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 1403-08-09T00:00:01
-title: 'Assignment #1'
+title: 'Assignment #1 - Not released yet!'
 released: false
 pdf: /static_files/assignments/asg.pdf
 attachment: /static_files/assignments/asg.zip
