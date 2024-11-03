@@ -55,6 +55,21 @@ layout: default
                 {% endfor %}
             </div>
         </div>
+        <div style="width:67%; float: left">
+            <div class="profile-pic-gallary ">
+                <h2>Assignments</h2>
+                {% for ta in site.data.people.assignments %}
+                <div class="image--cover-container">
+                    <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    {% if ta.webpage %}
+                    <p><a href="mailto:{{ ta.webpage }}">{{ta.name}}</a></p>
+                    {% else %}
+                    <p>{{ta.name}}</p>
+                    {% endif %}
+                </div>
+                {% endfor %}
+            </div>
+        </div>
         <div style="width:95%; float: left">
             <div class="profile-pic-gallary ">
                 <h2>Developers</h2>
