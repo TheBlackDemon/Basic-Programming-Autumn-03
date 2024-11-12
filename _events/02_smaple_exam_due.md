@@ -1,6 +1,6 @@
 ---
 type: exam
-date: 1403-09-06T18:30:00+3:30
+date: 
 description: 'Midterm'
 hide_from_announcments: true
 ---
