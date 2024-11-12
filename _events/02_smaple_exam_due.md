@@ -1,6 +1,6 @@
 ---
 type: exam
-date: 
+date: null
 description: 'Midterm'
 hide_from_announcments: true
 ---
